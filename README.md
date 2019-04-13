@@ -36,10 +36,18 @@ All work from the above shall be provided in the project repository.
 •       1 Year project  
 •       Written in Unity  
 •       Thesis in Project Repository  
+
+### Skills & Characteristics  
+•	Understanding of C++, C#, Unity and Visual Studios  
+•	Knowledge of Python, OpenGL, PhysX, HTML and CSS  
+•	Full UK driving Licence  
+•	Completed previous games projects part of a team  
+•	Eager  
+•	Determined  
+•	Honest and loyal 
  
 ### Work Experience/History  
-•	2 weeks IT council Support - Resolving PC/Phone problems + Setting up hardware and software for public Civic buildings   
-•	Worked with a team of around 15 people - Improved communication and problem-solving skills, effectively as a team 
+•	2 weeks IT council Support - Resolving PC/Phone problems + Setting up hardware and software for public Civic buildings Worked with a team of around 15 people - Improved communication and problem-solving skills, effectively as a team 
 
 •	1 week University of Huddersfield Robotics experience - Programming a Nao Robot  
 
@@ -54,16 +62,7 @@ All work from the above shall be provided in the project repository.
 •	Dog walking    
 •	Socialising with Friends    
 •	Enjoy drawing on both paper, and on PC  
-•	Working with Unity  
-
-### Skills & Characteristics  
-•	Understanding of C++, C#, Unity and Visual Studios  
-•	Knowledge of Python, OpenGL, PhysX, HTML and CSS  
-•	Full UK driving Licence  
-•	Completed previous games projects part of a team  
-•	Eager  
-•	Determined  
-•	Honest and loyal    
+•	Working with Unity     
 
 ### References  
 Restaurant owner – Sam Bloor, Phone number - +44 7710 630533  
