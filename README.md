@@ -19,15 +19,22 @@ Games Computing – Level 3
 ### Career Goals  
 My ambition is to be able to become apart of a productive games team, creating new and innovative game experiences, and developing my personal and professional skills in the computing field.   
 
-### University    
-During my first 2 years at University, I have learned skills around:  
-•	Web    
-•	Math in computing  
-•	AI  
-•	Graphics  
-•	Game design/programming  
+### University      
+•	Image Processing using MATLAB - Object recognition, interpolation and smoothing filters.         
+•	Robotics -                      ROS/Python Programming - Visual object searching and obstacle avoidance.
+•	Procedural Content Generation - Diorama Unity + Blender Project - Landscape, buildings, animation.   
+•	Physics -                       C++ PhysX Project  
+•	Advanced Games Programming -    C++ Urho3D Project - Boids Implementation + space combat game.   
 •	C++ and Unity  
-•	Group project – Working with a team of 3 other students, to create a game    
+•	Group project – Working with a team of 3 other students, to create a game
+All work from the above shall be provided in the project repository.  
+
+
+### Research/Dissertation  
+•       An investigation into the effect of automation in vehicles on user perception and driving ability  
+•       1 Year project  
+•       Written in Unity  
+•       Thesis in Project Repository  
  
 ### Work Experience/History  
 •	2 weeks during high School  
