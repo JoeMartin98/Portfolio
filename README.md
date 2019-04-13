@@ -14,7 +14,7 @@ Mobile Number: 	07568198701
 Email Address:	joeryan@ntlworld.com    
 
 Lincoln University – September 2016 to present day  
-Games Computing – Level 3  
+BSc(Hons) Games Computing – Level 3  
 
 ### Career Goals  
 My ambition is to be able to become apart of a productive games team, creating new and innovative game experiences, and developing my personal and professional skills in the computing field.   
