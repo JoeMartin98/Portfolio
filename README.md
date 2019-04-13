@@ -21,7 +21,7 @@ My ambition is to be able to become apart of a productive games team, creating n
 
 ### University      
 •	Image Processing using MATLAB - Object recognition, interpolation and smoothing filters.         
-•	Robotics -                      ROS/Python Programming - Visual object searching and obstacle avoidance.
+•	Robotics -                      ROS/Python Programming - Visual object searching and obstacle avoidance.  
 •	Procedural Content Generation - Diorama Unity + Blender Project - Landscape, buildings, animation.   
 •	Physics -                       C++ PhysX Project  
 •	Advanced Games Programming -    C++ Urho3D Project - Boids Implementation + space combat game.   
@@ -37,34 +37,32 @@ All work from the above shall be provided in the project repository.
 •       Thesis in Project Repository  
  
 ### Work Experience/History  
-•	2 weeks during high School  
-•	IT council Support  
-•	Resolving PC/Phone problems  
-•	Setting up hardware and software for public Civic buildings  
-•	Worked with a team of around 15 people  
-•	Improved communication and problem-solving skills, effectively as a team  
-•	Work was done under time constraints to add pressure to meet deadlines  
+•	2 weeks IT council Support - Resolving PC/Phone problems + Setting up hardware and software for public Civic buildings   
+•	Worked with a team of around 15 people - Improved communication and problem-solving skills, effectively as a team 
+
+•	1 week University of Huddersfield Robotics experience - Programming a Nao Robot  
+
 •	Waiter, November 2013 – September 2016  
 
 ### Hobbies  
-•	General Computing  
-•	Video games  
-•	Music  
-•	Film  
-•	Football  
-•	Dog walking  
-•	Socialising with Friends  
-•	Enjoy drawing on both paper, and on a computer (Can send examples of my work)  
-•	Worked on unity games in my personal time, a “Endless Runner” game  
+•	General Computing    
+•	PC Games   
+•	Music - Twenty one Pilots, Panic! at the Disco, NF    
+•	Movies   
+•	Football - Liverpool FC   
+•	Dog walking    
+•	Socialising with Friends    
+•	Enjoy drawing on both paper, and on PC  
+•	Working with Unity  
 
 ### Skills & Characteristics  
-•	Understanding of C++, Unity and Visual Studios  
-•	Knowledge of OpenGL, HTML, CSS and C#  
+•	Understanding of C++, C#, Unity and Visual Studios  
+•	Knowledge of Python, OpenGL, PhysX, HTML and CSS  
 •	Full UK driving Licence  
 •	Completed previous games projects part of a team  
 •	Eager  
 •	Determined  
-•	Honest and loyal  
+•	Honest and loyal    
 
 ### References  
 Restaurant owner – Sam Bloor, Phone number - +44 7710 630533  
