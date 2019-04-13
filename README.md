@@ -25,10 +25,10 @@ My ambition is to be able to become apart of a productive games team, creating n
 •	Procedural Content Generation - Diorama Unity + Blender Project - Landscape, buildings, animation.   
 •	Physics -                       C++ PhysX Project  
 •	Advanced Games Programming -    C++ Urho3D Project - Boids Implementation + space combat game.   
-•	C++ and Unity  
-•	Group project – Working with a team of 3 other students, to create a game
+•	Advanced Game Studies -         Panel discussion on Gaming Communities - Dead by Daylight Immersion Analysis    
+•	Group project –                 Unity Group Project - Group management + Educational Game  
+•	Artificial Intelligence -       Logic Programming, Search algorithms, PDDL Programming
 All work from the above shall be provided in the project repository.  
-
 
 ### Research/Dissertation  
 •       An investigation into the effect of automation in vehicles on user perception and driving ability  
