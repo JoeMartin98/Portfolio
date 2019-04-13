@@ -27,7 +27,8 @@ My ambition is to be able to become apart of a productive games team, creating n
 •	Advanced Games Programming -    C++ Urho3D Project - Boids Implementation + space combat game.   
 •	Advanced Game Studies -         Panel discussion on Gaming Communities - Dead by Daylight Immersion Analysis    
 •	Group project –                 Unity Group Project - Group management + Educational Game  
-•	Artificial Intelligence -       Logic Programming, Search algorithms, PDDL Programming
+•	Artificial Intelligence -       Logic Programming, Search algorithms, PDDL Programming 
+
 All work from the above shall be provided in the project repository.  
 
 ### Research/Dissertation  
