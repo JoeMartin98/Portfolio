@@ -4,11 +4,6 @@ Joe Martin Programming Portfoilio
 ## CV
 
 Name:		Joseph Ryan Martin    
-Address:	26 Beaumont Street    
-           	Netherton    
-                Huddersfield    
-	        HD4 7HD    
-Mobile Number: 	07568198701    
 Email Address:	joeryan@ntlworld.com    
 
 Lincoln University – September 2016 to present day  
