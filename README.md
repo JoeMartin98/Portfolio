@@ -5,32 +5,21 @@ Please find my CV below, and take a look at my work in the Projects section in t
 
 ## CV
 
-Name:			      Joseph Ryan Martin
-Address:		    26 Beaumont Street
-           			Netherton
-		    	      Huddersfield
-		    	      HD4 7HD
-Mobile Number: 	07568198701
-Email Address:	joeryan@ntlworld.com
+Name:		Joseph Ryan Martin    
+Address:	26 Beaumont Street    
+           	Netherton    
+                Huddersfield    
+	        HD4 7HD    
+Mobile Number: 	07568198701    
+Email Address:	joeryan@ntlworld.com    
 
-Lincoln University – September 2016 to present day
+Lincoln University – September 2016 to present day  
+Games Computing – Level 3  
 
-Games Computing – Level 3
+Career Goals  
+My ambition is to be able to become apart of a productive games team, creating new and innovative game experiences, and developing my personal and professional skills in the computing field.   
 
-Greenhead College – September 2014 to June 2016
-
-Maths A Level Grade C
-
-Computing A Level Grade D
-
-Business Studies A Level Grade D
-
-Physics AS Level Grade E
-
-Career Goals
-My ambition is to be able to become apart of a productive games team, creating new and innovative game experiences, and developing my personal and professional skills in the computing field. 
-
-University  
+University    
 During my first 2 years at University, I have learned skills around:  
 •	Web    
 •	Math in computing  
