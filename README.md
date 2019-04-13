@@ -1,8 +1,6 @@
 # Portfolio
 Joe Martin Programming Portfoilio
 
-Please find my CV below, and take a look at my work in the Projects section in this Repository.
-
 ## CV
 
 Name:		Joseph Ryan Martin    
@@ -29,13 +27,13 @@ My ambition is to be able to become apart of a productive games team, creating n
 •	Group project –                 Unity Group Project - Group management + Educational Game  
 •	Artificial Intelligence -       Logic Programming, Search algorithms, PDDL Programming 
 
-All work from the above shall be provided in the project repository.  
+All work from the above shall be provided in the wiki.  
 
 ### Research/Dissertation  
 •       An investigation into the effect of automation in vehicles on user perception and driving ability  
 •       1 Year project  
 •       Written in Unity  
-•       Thesis in Project Repository  
+•       Thesis in wiki 
 
 ### Skills & Characteristics  
 •	Understanding of C++, C#, Unity and Visual Studios  
